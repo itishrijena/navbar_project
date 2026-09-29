@@ -1,0 +1,65 @@
+*{
+    padding: 20px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+.xyz{
+    width: 300px;
+    height: 300px;
+    border: 5px solid red;
+    /* border: 5px dotted red;*/
+    /* border:  5px dashed red;*/
+
+    margin: 20px;
+    /* margin-top: 20px; */
+    /* margin-left: 40px; */
+    /* margin-bottom: 100px; */
+    /* margin-right: 50px; */
+    /* margin: 30px 40px; */
+    /* margin: 20px 30px 40px 50px; */
+
+    /* padding: 30px; */
+    /* padding-top: 3px; */
+    /* padding-right: 40px; */
+    /* padding-bottom: 50px; */
+    /* padding-left: 40px; */
+    /* padding: 30px 50px; */
+    /* padding: 30px 40px 20px 60px;*/
+}
+
+    .abc{
+        width: 100%;
+        margin-top: 100px;
+        border: 5px solid blue;
+        font-size: 20px;
+    }
+    .abc .para{
+        color: yellow;
+        /* font-size: 30px; */
+        /* font-size: 2em; */
+        /* font-size: 3rem; */
+        /* color: red; */   
+}
+.Iti{
+    width: 200px;
+    border: 2px solid green;
+    margin-top: 4opx;
+    height: 300px;
+    
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    /* overflow: auto; */
+}
+
+.Iti{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border: 5px solid pink;
+}
+.link{
+    background-color: yellow;
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+}

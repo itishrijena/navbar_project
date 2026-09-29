@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 200px;
+    gap: 40px;
+
+
+    /* its use only for twiter */
+   
+}
+.twiter{
+    height: 450px;
+    width: 350px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    align-items: center;
+  
+    
+}
+.twit{
+    font-size: 60px;
+   
+}
+.icon{
+    margin-left: 110px;
+    margin-top: 20px;
+    justify-content: center;
+}
+.tw{
+    margin-left: 70px;
+    margin-top: 25px;
+    color: black;
+}
+.para-t{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.btn-t{
+    margin-top: 60px;
+    height: 60px;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: black;
+        color: white;
+    transition: ease 0.6s;
+    cursor: pointer;    
+}
+.btn-t:hover{
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+/* its only use for instagram  */
+
+.instagram{  
+
+    height: 450px;
+    width: 350px;
+    background-color: rgb(226, 67, 120);
+    border-radius: 5px;
+    padding: 20px;
+    align-items: center;
+}
+.insta{
+    font-size: 60px;
+   
+}
+ .inst {
+     margin-left: 70px;
+     margin-top: 25px;
+     color: white;
+ }
+.inst{
+    margin-left: 50px;
+    margin-top: 25px;
+    color:white;
+
+    
+}
+
+.para-i {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 40px;
+    color: white;
+}
+.btn-i {
+    margin-top: 60px;
+    height: 60px;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    font-size: 20px;
+    transition: ease 0.6s;
+    color: rgb(226, 67, 120);
+    cursor: pointer;
+}
+.btn-i:hover{
+    color: rgb(66, 103, 136);
+    background-color: rgb(226, 67, 120);
+    box-shadow: 3px 3px;
+}
+
+
+/* its only use youtube */
+.youtube{
+height: 450px;
+    width: 350px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    align-items: center;
+}
+.tube{
+    font-size: 60px;
+}
+.yt{
+    margin-left: 70px;
+        margin-top: 25px;
+        color: black;
+}
+
+.para-y {
+    font-size: 20px;
+        margin-top: 20px;
+        margin-left: 40px;
+font-size: 20px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.btn-y {
+    margin-top: 60px;
+        height: 60px;
+        width: 300px;
+        justify-content: center;
+        align-items: center;
+        border-radius: 30px;
+        font-size: 20px;
+        background-color: black;
+        color: white;
+        transition: ease 0.6s;
+        cursor: pointer;
+}
+.btn-y:hover{
+    background-color: white;
+    color: black;
+}

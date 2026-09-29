@@ -1,0 +1,126 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.abc {
+    width: 90%;
+    height: 300px;
+    border: 2px solid black;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.abc .divv-1 {
+    width: 25%;
+    height: 40%;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 0px;
+}
+
+.abc .divv-2 {
+    width: 25%;
+    height: 40%;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 0px;
+
+}
+
+.abc .divv-3 {
+    width: 25%;
+    height: 40%;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 0px;
+
+}
+
+.divv-1 .divv-11{
+    width: 80%;
+    height: 30px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divv-1 .divv-12{
+    width: 80%;
+    height: 30px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divv-1 .divv-13{
+    width: 80%;
+    height: 30px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divv-2 .divv-21{
+    width: 80%;
+    height: 30px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divv-2 .divv-22{
+    width: 80%;
+    height: 30px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divv-2 .divv-23{
+    width: 80%;
+    height: 30px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divv-3 .divv-31{
+    width: 80%;
+    height: 30px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divv-3 .divv-32{
+    width: 80%;
+    height: 30px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divv-3 .divv-33{
+    width: 80%;
+    height: 30px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

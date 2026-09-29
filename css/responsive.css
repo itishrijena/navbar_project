@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.iti{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    border-radius: 30%;
+    margin: 20px auto;
+    box-shadow: -2px -2px 10px 5px gray;
+}
+@media (max-width:1200px) and (min-width:992px) {
+    .iti{
+        background-color: pink;
+    }
+}
+@media (max-width:576px){
+    .iti{
+        background-color: red;
+    }
+}
